@@ -13,8 +13,8 @@
     "dist"
   ],
   "repository": {
-      "type": "git",
-      "url": "https://github.com/cameronbourke/react-async-poll.git"
+    "type": "git",
+    "url": "https://github.com/IxpertaSolutions/react-async-poll.git"
   },
   "scripts": {
     "start": "node server",
